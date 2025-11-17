@@ -1,0 +1,10 @@
+{
+	"id": "auto-insert-folder",
+	"name": "Auto Insert Folder",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Automatically inserts the parent folder name into newly created notes",
+	"author": "Your Name",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}

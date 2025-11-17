@@ -1,0 +1,11 @@
+{
+  "insertPosition": "top",
+  "format": "project: \"[[{{folder}}]]\"",
+  "allowedFolders": [
+    "Projects"
+  ],
+  "enableForAllFolders": false,
+  "insertMode": "frontmatter",
+  "frontmatterProperty": "project",
+  "frontmatterFormat": "'[[{{folder}}]]'"
+}
